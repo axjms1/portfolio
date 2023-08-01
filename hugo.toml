@@ -1,0 +1,118 @@
+baseURL = 'https://edtech2.boisestate.edu/jasonsandidge/592/'
+copyright = "© Jason Sandidge 2023"
+languageCode = 'en-us'
+paginate = 50
+title = 'MET Portfolio'
+timezone = "America/Denver"
+[[module.imports]]
+path = "github.com/willfaught/paige"
+[[module.imports]]
+path = "github.com/anvithks/hugo-embed-pdf-shortcode"
+
+enableInlineShortcodes = true
+
+[params.authors.JS]
+name = "Jason Sandidge"
+
+[paige.search]
+hide_page = false
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+noclasses = false
+
+[markup.tableofcontents]
+endlevel = 6
+ordered = true
+startlevel = 2
+
+[paige.menu]
+breakpoint = "sm" # Bootstrap breakpoint at which to display all menu items
+style = "pills" # Must be "links", "pills", "tabs", or "underline"
+
+
+[languages.en]
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "overview"
+name = "Overview"
+url = "/Overview/"
+style = "pills"
+weight = 20
+
+[[languages.en.menu.main]]
+identifier = "plo"
+name = "Program Learning Outcomes"
+url = "/plo/"
+weight = 30
+
+[languages.en.menu.main.params.paige]
+divider_below = true
+
+[[languages.en.menu.main]]
+identifier = "Design & Development"
+name = "Design & Development"
+parent = "plo"
+url = "/plo/design-development/"
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "Pedagogy & Theory"
+name = "Pedagogy & Theory"
+parent = "plo"
+url = "/plo/pedagogy-theory/"
+weight = 20
+
+[[languages.en.menu.main]]
+identifier = "Evaluation & Assessment"
+name = "Evaluation & Assessment"
+parent = "plo"
+url = "/plo/evaluation-assessment/"
+weight = 30
+
+[[languages.en.menu.main]]
+identifier = "Ethics"
+name = "Ethics"
+parent = "plo"
+url = "/plo/ethics/"
+weight = 40
+
+[[languages.en.menu.main]]
+identifier = "Leadership"
+name = "Leadership"
+parent = "plo"
+url = "/plo/leadership/"
+weight = 50
+
+[[languages.en.menu.main]]
+identifier = "reflection"
+name = "Reflection"
+url = "/reflection/"
+weight = 40
+
+[[languages.en.menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 50
+
+[[languages.en.menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 60
+
+[outputs]
+home = ["html", "json", "rss"]
+
+[taxonomies]
+tag = "tags"
