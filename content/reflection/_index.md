@@ -5,4 +5,4 @@ date: 2023-07-01
 draft: false
 tags: ["Reflection"]
 ---
-{{< embed-pdf url="JSandidge_MET_Reflection.pdf" >}}
+will put gdoc link here...
