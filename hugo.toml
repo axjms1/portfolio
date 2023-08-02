@@ -1,13 +1,12 @@
-baseURL = 'https://axjms1.github.io/portfolio/'
+baseURL = "https://axjms1.github.io/portfolio/"
 copyright = "© Jason Sandidge 2023"
-languageCode = 'en-us'
+languageCode = "en-us"
 paginate = 50
-title = 'MET Portfolio'
+title = "MET Portfolio"
 timezone = "America/Denver"
 [[module.imports]]
 path = "github.com/willfaught/paige"
-[[module.imports]]
-path = "github.com/anvithks/hugo-embed-pdf-shortcode"
+
 
 enableInlineShortcodes = true
 
