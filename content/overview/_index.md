@@ -16,10 +16,10 @@ ___
     
     **Artifacts Presented:**
     1. [Team Coding w/ Git and GitLab]({{< ref "plo/design-development/git.md" >}})
-    2. Artifact 2
-    3. Artifact 3
-    4. Artifact 4
-    5. Artifact 5
+    2. [Beginning Python - Design Document]({{< ref "plo/design-development/py_design.md" >}})
+    3. [Simple Circuits - Maker Project Proposal]({{< ref "plo/design-development/maker_design.md" >}})
+    4. [Mesa Verde - Virtual Tour]({{< ref "plo/design-development/mv_vtour.md" >}})
+    5. [A Caravaggio Webquest]({{< ref "plo/design-development/caravaggio_webquest.md" >}})
 
 
 * **[Pedagogy and Theory]({{< ref "plo/pedagogy-theory/_index.md" >}})**
