@@ -1,5 +1,5 @@
 ---
-title: "Team Coding w/ Git and GitLab"
+title: "Team Coding w/ Git and GitLab - Design Section"
 description: "Design & Development - Artifact 1"
 date: 2023-07-01
 draft: false

@@ -13,7 +13,7 @@ ___
   * Design and develop technology enhanced educational or training materials and content (e.g., curriculum, instruction, performance supports) to maximize motivation, engagement, efficacy and efficiency with respect to learning.
     
     **Artifacts Presented:**
-    1. [Team Coding w/ Git and GitLab]({{< ref "plo/design-development/git.md" >}})
+    1. [Team Coding w/ Git and GitLab - Design Section]({{< ref "plo/design-development/git.md" >}})
     2. [Beginning Python - Design Document]({{< ref "plo/design-development/py_design.md" >}})
     3. [Simple Circuits - Maker Project Proposal]({{< ref "plo/design-development/maker_design.md" >}})
     4. [Mesa Verde - Virtual Tour]({{< ref "plo/design-development/mv_vtour.md" >}})
@@ -23,8 +23,8 @@ ___
   * Demonstrate the ability to integrate pedagogical approaches and educational technologies in practical classroom teaching and training as well as the ability to reflect on the effective application of technology-supported pedagogical approaches.
     
      **Artifacts Presented:**
-    1. [Computational Thinking Annotated Bibliography]({{< ref "plo/pedagogy-theory/annotated_bibliography.md" >}})
-    2. [The In Class Flip]({{< ref "plo/pedagogy-theory/in_class_flip.md" >}})
+    1. [Computational Thinking - Annotated Bibliography]({{< ref "plo/pedagogy-theory/annotated_bibliography.md" >}})
+    2. [The In Class Flip - Presentation]({{< ref "plo/pedagogy-theory/in_class_flip.md" >}})
     3. [Learning as Coordination - Chapter Review]({{< ref "plo/pedagogy-theory/learning_as_coordination.md" >}})
     4. [AI in Education - Annotated Bibliography]({{< ref "plo/pedagogy-theory/ai_ed_bibliography.md" >}})
     5. [AI in Education - Reflection Paper]({{< ref "plo/pedagogy-theory/ai_ed_reflection.md" >}})
@@ -33,8 +33,8 @@ ___
   * Use technology to facilitate appropriate assessment and evaluation strategies and determine the effectiveness of technology in curriculum or instruction.
     
      **Artifacts Presented:**
-    1. [School Technology Maturity Benchmarks Evaluation Summary]({{< ref "plo/evaluation-assessment/techMaturityBenchmarks.md" >}})
-    2. Artifact 2
+    1. [School Technology Maturity Benchmarks Evaluation Summary]({{< ref "plo/evaluation-assessment/tech_maturity_benchmarks.md" >}})
+    2. [Team Coding w/ Git and GitLab - Evaluation Section]({{< ref "plo/evaluation-assessment/git_evaluation.md" >}})
     3. Artifact 3
     4. Artifact 4
     5. Artifact 5
