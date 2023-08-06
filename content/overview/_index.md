@@ -35,9 +35,9 @@ ___
      **Artifacts Presented:**
     1. [School Technology Maturity Benchmarks Evaluation Summary]({{< ref "plo/evaluation-assessment/tech_maturity_benchmarks.md" >}})
     2. [Team Coding w/ Git and GitLab - Evaluation Section]({{< ref "plo/evaluation-assessment/git_evaluation.md" >}})
-    3. Artifact 3
-    4. Artifact 4
-    5. Artifact 5
+    3. [Online Course Critiques]({{< ref "plo/evaluation-assessment/online_course_critiques.md" >}})
+    4. [Logic Model for Thrillshare Evaluation]({{< ref "plo/evaluation-assessment/logic_model.md" >}})
+    5. [Thrillshare Evaluation]({{< ref "plo/evaluation-assessment/thrillshare.md" >}})
 ___
 * **[Ethics]({{< ref "plo/ethics/_index.md" >}})**
   * Apply professional and ethical standards (e.g., accessibility, diversity, copyright) to all aspects of teaching and learning.
