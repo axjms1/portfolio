@@ -9,8 +9,6 @@ tags: ["Overview"]
 The Master of Educational Technology program at Boise State University is focused on five primary learning objectives.  Each of these objectives reflect professional standards employed by organizations such as the International Society for Technology in Education [(ISTE)](https://www.iste.org) and the Assocation for Educational Communications and Technology [(AECT)](https://www.aect.org).
 ___
 
-
-
 * **[Design and Development]({{< ref "plo/design-development/_index.md" >}})**
   * Design and develop technology enhanced educational or training materials and content (e.g., curriculum, instruction, performance supports) to maximize motivation, engagement, efficacy and efficiency with respect to learning.
     
@@ -20,19 +18,17 @@ ___
     3. [Simple Circuits - Maker Project Proposal]({{< ref "plo/design-development/maker_design.md" >}})
     4. [Mesa Verde - Virtual Tour]({{< ref "plo/design-development/mv_vtour.md" >}})
     5. [A Caravaggio Webquest]({{< ref "plo/design-development/caravaggio_webquest.md" >}})
-
-
+___
 * **[Pedagogy and Theory]({{< ref "plo/pedagogy-theory/_index.md" >}})**
   * Demonstrate the ability to integrate pedagogical approaches and educational technologies in practical classroom teaching and training as well as the ability to reflect on the effective application of technology-supported pedagogical approaches.
     
      **Artifacts Presented:**
-    1. [Computational Thinking Annotated Bibliography]({{< ref "plo/pedagogy-theory/AnnotatedBibliography.md" >}})
-    2. Artifact 2
-    3. Artifact 3
-    4. Artifact 4
-    5. Artifact 5
-
-
+    1. [Computational Thinking Annotated Bibliography]({{< ref "plo/pedagogy-theory/annotated_bibliography.md" >}})
+    2. [The In Class Flip]({{< ref "plo/pedagogy-theory/in_class_flip.md" >}})
+    3. [Learning as Coordination - Chapter Review]({{< ref "plo/pedagogy-theory/learning_as_coordination.md" >}})
+    4. [AI in Education - Annotated Bibliography]({{< ref "plo/pedagogy-theory/ai_ed_bibliography.md" >}})
+    5. [AI in Education - Reflection Paper]({{< ref "plo/pedagogy-theory/ai_ed_reflection.md" >}})
+___  
 * **[Evaluation and Assessment]({{< ref "plo/evaluation-assessment/_index.md" >}})**
   * Use technology to facilitate appropriate assessment and evaluation strategies and determine the effectiveness of technology in curriculum or instruction.
     
@@ -42,8 +38,7 @@ ___
     3. Artifact 3
     4. Artifact 4
     5. Artifact 5
-
-
+___
 * **[Ethics]({{< ref "plo/ethics/_index.md" >}})**
   * Apply professional and ethical standards (e.g., accessibility, diversity, copyright) to all aspects of teaching and learning.
     
@@ -53,8 +48,7 @@ ___
     3. Artifact 3
     4. Artifact 4
     5. Artifact 5
-
-
+___
 * **[Leadership]({{< ref "plo/leadership/_index.md" >}})**
   * Demonstrate educational technology leadership in school and community through research and innovations in emerging teaching and learning environments (e.g., online, blended, mobile, game-based, competency-based).
     

@@ -5,4 +5,4 @@ date: 2023-07-01
 draft: false
 tags: ["P&T"]
 ---
-{{< paige/youtube video="ZGQB1MKD-h0" maxwidth="50%" description="Pedagogy and Theory Vignette">}}
+{{< paige/youtube video="ZGQB1MKD-h0" description="Pedagogy and Theory Vignette">}}
