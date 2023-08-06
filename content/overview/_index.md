@@ -44,10 +44,10 @@ ___
     
      **Artifacts Presented:**
     1. [Professional Ethics Animation]({{< ref "plo/ethics/ethicsAnimation.md" >}})
-    2. Artifact 2
-    3. Artifact 3
-    4. Artifact 4
-    5. Artifact 5
+    2. [4 S's of Netiquette - Website]({{< ref "plo/ethics/netiquette.md" >}})
+    3. [Accessible Gaming - Website]({{< ref "plo/ethics/accessible_gaming.md" >}})
+    4. [3D Printing in the Classroom - Website]({{< ref "plo/ethics/3d_printing.md" >}})
+    5. [CITI Training]({{< ref "plo/ethics/citi.md" >}})
 ___
 * **[Leadership]({{< ref "plo/leadership/_index.md" >}})**
   * Demonstrate educational technology leadership in school and community through research and innovations in emerging teaching and learning environments (e.g., online, blended, mobile, game-based, competency-based).

@@ -1,7 +1,7 @@
 ---
 title: "Professional Ethics Animation"
 description: "Ethics - Artifact 1"
-date: 2023-07-01
+date: 2023-08-01
 draft: false
 tags: ["Ethics", "powtoon", "EDTECH 501"]
 weight: 10

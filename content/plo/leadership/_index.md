@@ -5,3 +5,4 @@ date: 2023-07-01
 draft: false
 tags: ["Leadership"]
 ---
+{{< paige/youtube video="ZGQB1MKD-h0" description="Leadership Video Vignette">}}

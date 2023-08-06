@@ -5,5 +5,5 @@ date: 2023-07-01
 draft: false
 tags: ["D&D", "Video"]
 ---
-{{< paige/youtube video="ZGQB1MKD-h0" description="Design and Development Vignette">}}
+{{< paige/youtube video="ZGQB1MKD-h0" description="Design and Development Video Vignette">}}
 
