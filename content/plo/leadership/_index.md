@@ -5,4 +5,6 @@ date: 2023-07-01
 draft: false
 tags: ["Leadership"]
 ---
-{{< paige/image src="./plo/leadership/leadership_title_screenshot.png" >}}
+{{< paige/figure caption="Video Vignette" >}}
+{{< paige/youtube video="Q7n8yWxkkU4" >}}
+{{< /paige/figure >}}

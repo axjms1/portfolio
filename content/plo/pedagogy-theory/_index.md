@@ -5,4 +5,6 @@ date: 2023-07-01
 draft: false
 tags: ["P&T"]
 ---
-{{< paige/image src="./plo/pedagogy-theory/pt_title_screenshot.png" >}}
+{{< paige/figure caption="Video Vignette" >}}
+{{< paige/youtube video="vnOitUf2K4E" >}}
+{{< /paige/figure >}}

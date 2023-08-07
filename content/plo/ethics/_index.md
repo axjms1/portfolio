@@ -5,4 +5,6 @@ date: 2023-07-01
 draft: false
 tags: ["Ethics"]
 ---
-{{< paige/image src="./plo/ethics/ethics_title_screenshot.png" >}}
+{{< paige/figure caption="Video Vignette" >}}
+{{< paige/youtube video="EXmCgw1Xf2U" >}}
+{{< /paige/figure >}}

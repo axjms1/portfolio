@@ -5,5 +5,6 @@ date: 2023-07-01
 draft: false
 tags: ["D&D", "Video"]
 ---
-{{< paige/image src="./plo/design-development/dd_title_screenshot.png" >}}
-
+{{< paige/figure caption="Video Vignette" >}}
+{{< paige/youtube video="6k_lb--GENM" >}}
+{{< /paige/figure >}}

@@ -5,4 +5,6 @@ date: 2023-07-01
 draft: false
 tags: ["E&A"]
 ---
-{{< paige/image src="./plo/evaluation-assessment/ea_title_screenshot.png" >}}
+{{< paige/figure caption="Video Vignette" >}}
+{{< paige/youtube video="zgNKKm-gAP4" >}}
+{{< /paige/figure >}}
