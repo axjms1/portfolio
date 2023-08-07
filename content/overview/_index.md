@@ -54,7 +54,7 @@ ___
     
      **Artifacts Presented:**
     1. [School District Website Legal Compliance Self Assessment]({{< ref "plo/leadership/legalCompliance.md" >}})
-    2. Artifact 2
-    3. Artifact 3
-    4. Artifact 4
-    5. Artifact 5
+    2. [Beginning Python - Online Course]({{< ref "plo/leadership/python.md" >}})
+    3. [Arduino Maker Project]({{< ref "plo/leadership/maker_project.md" >}})
+    4. [Machine Learning]({{< ref "plo/leadership/machine_learning.md" >}})
+    5. [Maker Portfolio]({{< ref "plo/leadership/maker_portfolio.md" >}})
