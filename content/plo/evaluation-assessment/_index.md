@@ -5,4 +5,4 @@ date: 2023-07-01
 draft: false
 tags: ["E&A"]
 ---
-{{< paige/youtube video="ZGQB1MKD-h0" description="Design and Development Vignette">}}
+{{< paige/image src="./plo/evaluation-assessment/ea_title_screenshot.png" >}}

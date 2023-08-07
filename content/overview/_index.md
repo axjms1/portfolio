@@ -56,5 +56,5 @@ ___
     1. [School District Website Legal Compliance Self Assessment]({{< ref "plo/leadership/legalCompliance.md" >}})
     2. [Beginning Python - Online Course]({{< ref "plo/leadership/python.md" >}})
     3. [Arduino Maker Project]({{< ref "plo/leadership/maker_project.md" >}})
-    4. [Machine Learning]({{< ref "plo/leadership/machine_learning.md" >}})
-    5. [Maker Portfolio]({{< ref "plo/leadership/maker_portfolio.md" >}})
+    4. [Machine Learning - Selected Assignments]({{< ref "plo/leadership/machine_learning.md" >}})
+    5. [Maker Portfolio - Website]({{< ref "plo/leadership/maker_portfolio.md" >}})
