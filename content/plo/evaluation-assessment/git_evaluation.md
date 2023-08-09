@@ -7,7 +7,7 @@ tags: ["Evaluation", "EDTECH 503", "E&A"]
 weight: 20
 ---
 
-This artifact is less an actual evaluation and more of a plan to evaluate.  I developed this plan in EDTECH 503 as part of my instructional design project.  While I was developing this unit I was simultaneously learning the subject matter and this resulted in a challenging project.  Determining what is essential and what is not is difficult and that is where the formative peer evaluation became extremely helpful.  In this project I began to comprehend the differences between an editor and an evaluator.
+This artifact is less an actual evaluation and more of a plan to evaluate.  I developed this plan in EDTECH 503 as part of my instructional design project.  While I was developing this unit I was simultaneously learning the subject matter and this resulted in a challenging project.  Determining what is essential and what is not is difficult and that is where the formative peer evaluation became extremely helpful.  In this project, I began to comprehend the differences between an editor and an evaluator.
 
 The content of this unit is directly applicable to my current professional practice.  I use these tools every day.  The evaluation portion specifically is also helpful in that the questions raised in the formative evaluation continue to inform how I assist interns and other new engineers.
 

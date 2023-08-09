@@ -6,7 +6,7 @@ draft: false
 tags: ["D&D", "Web Development", "EDTECH 502"]
 weight: 40
 ---
-This artifact is a website developed by hand using the bootstrap framework so that it is adaptive to screen size.  This was one of the later websites that I developed in EDTECH 502 I think that is reflected in its cohesive design.  This website was inspired by an actual tour of the Mesa Verde National Park that was subsequently "virtualized" in this website.
+This artifact is a website developed by hand using the Bootstrap framework so that it is adaptive to screen size.  This was one of the later websites that I developed in EDTECH 502 I think that is reflected in its cohesive design.  This website was inspired by an actual tour of the Mesa Verde National Park that was subsequently "virtualized" in this website.
 
 Although the content of this website has little to do with my professional practice developing it did provide practice with front-end development.  Most websites are not created in this way anymore but understanding how html and css interact in a web browser is very useful.
 

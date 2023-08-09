@@ -6,7 +6,7 @@ draft: false
 tags: ["P&T", "Bibliography", "EDTECH 504", "APA7"]
 weight: 40
 ---
-In EDTECH 504 we were challenged to connect a topic of interest to a theory of learning. I was interested in artificial intelligence in education (AIEd) and connecting its use beyond the traditional theoretical foundation of behaviorism into other theories including constructivism.
+In EDTECH 504 we were challenged to connect a topic of interest to a theory of learning. I was interested in artificial intelligence in education (AIEd) and connecting its use beyond the traditional theoretical foundation of behaviorism to other theories including constructivism.
 
 The annotated bibliography below is my first attempt at gathering evidence to support that claim which would inform the reflection paper I completed later in the class.  The connection to my professional practice is tenuous but it served as an excellent survey of different applications of AI and machine learning in education and elsewhere.  
 

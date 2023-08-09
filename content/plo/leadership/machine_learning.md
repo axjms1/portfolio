@@ -8,7 +8,7 @@ weight: 40
 ---
 I would be remiss not to include an artifact from my favorite course in the program.  Introduction to Machine Learning Education (EDTECH 597) provided an excellent introduction to machine learning and data analysis using [Python](https://www.python.org/), [Orange](https://orangedatamining.com/), and [Jupyter Notebooks](https://jupyter.org/). The artifact linked below is from an exercise later in the course where various machine learning models were applied to a dataset and evaluated.  Further below is a representative output from a Jupyter notebook used in the course.  Machine learning is one of the most interesting applications of artificial intelligence (AI) in education with the recent exception of generative AI and large language models (LLMs).
 
-The lessons provided from this course provided a springboard from which I was able to extend my knowledge of python and data analysis to pursue an entirely different career.  I use these tools on a daily basis as a test engineer.
+The lessons provided from this course provided a springboard from which I was able to extend my knowledge of Python and data analysis to pursue an entirely different career.  I use these tools on a daily basis as a test engineer.
 
 **[Selected Machine Learning Assignment](https://docs.google.com/document/d/1K5ktqn4yM1y8mTt4gl82wZ7HsOacJfvV/preview)**
 ____

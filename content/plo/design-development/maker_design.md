@@ -6,7 +6,7 @@ draft: false
 tags: ["D&D", "Arduino", "EDTECH 538", "Instructional Design", "Maker"]
 weight: 30
 ---
-This artifact was completed recently in EDTECH 538: Maker Tech.  It is a maker project proposal that expanded into an almost full-fledged instructional design.  I really enjoyed learning more about the Arduino platform and leaned into that with this proposal. The proposoal would help an instructor introduce simple circuits and Ohm's Law to secondary or adult learners through a series of mini projects using the Arduino microcontroller.
+This artifact was completed recently in EDTECH 538: Maker Tech.  It is a maker project proposal that expanded into an almost full-fledged instructional design.  I really enjoyed learning more about the Arduino platform and leaned into that with this proposal. The proposal would help an instructor introduce simple circuits and Ohm's Law to secondary or adult learners through a series of mini projects using the Arduino microcontroller.
 
 I like to think the first three artifacts in this portfolio show a progression in learning and efficiency in developing instructional designs as I progressed through the program.  Although, this design is less robust than the one developed for EDTECH 503; that class informed the development of this proposal and I hope that is reflected in the design.
 

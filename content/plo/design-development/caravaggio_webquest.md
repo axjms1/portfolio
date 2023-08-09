@@ -6,9 +6,9 @@ draft: false
 tags: ["D&D", "Web Development", "EDTECH 502"]
 weight: 50
 ---
-This artifact is another website developed by hand using the bootstrap framework.  This website is very similar to the previous artifact but I was able to experiment a little more with the css and develop tables and columns in the website layouts. 
+This artifact is another website developed by hand using the Bootstrap framework.  This website is very similar to the previous artifact but I was able to experiment a little more with the css and develop tables and columns in the website layouts. 
 
-Like the previous artifact the content of this website has little to do with my professional practice. Meticulous coding is a part of my work however and while developing websites by hand even subtle difference require a significant amount of time. This website shows how I was starting to develop a personal bootstrap template for websites to make the website development process more efficient. Fortunately, web design is not a significant part of my work.
+Like the previous artifact, the content of this website has little to do with my professional practice. Meticulous coding is a part of my work however and while developing websites by hand even subtle differences require a significant amount of time. This website shows how I was starting to develop a personal Bootstrap template for websites to make the website development process more efficient.
 
 **[A Caravaggio Webquest](https://edtech2.boisestate.edu/jasonsandidge/502/webquest/start.html)**
 {{< paige/figure caption="A Caravaggio Webquest Screenshot" >}}
